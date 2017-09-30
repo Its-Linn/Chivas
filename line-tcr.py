@@ -1610,9 +1610,9 @@ def bot(op):
                                 kc.sendText(msg.to,"Succes Cv")
 #-----------------------------------------------
             elif msg.text in ["Test"]:
-                ki.sendText(msg.to,"Ok Cv 􀨁􀄻double thumbs up􏿿")
-                kk.sendText(msg.to,"Ok Cv 􀨁􀄻double thumbs up􏿿")
-                kc.sendText(msg.to,"Ok Cv 􀨁􀄻double thumbs up􏿿")
+                ki.sendText(msg.to,"Bacot Goblok 􀨁􀄻double thumbs up􏿿")
+                kk.sendText(msg.to,"Bacot Tolol 􀨁􀄻double thumbs up􏿿")
+                kc.sendText(msg.to,"Diem Ngentot 􀨁􀄻double thumbs up􏿿")
 #-----------------------------------------------
             elif "Bc " in msg.text:
 				bctxt = msg.text.replace("Bc ","")
@@ -1628,25 +1628,25 @@ def bot(op):
 
 #-----------------------------------------------
 
-            elif msg.text in ["Cv say hinata pekok"]:
-                ki.sendText(msg.to,"Hinata pekok 􀜁􀅔Har Har􏿿")
-                kk.sendText(msg.to,"Hinata pekok 􀜁􀅔Har Har􏿿")
-                kc.sendText(msg.to,"Hinata pekok 􀜁􀅔Har Har􏿿")
-            elif msg.text in ["Cv say didik pekok"]:
-                ki.sendText(msg.to,"Didik pekok 􀜁􀅔Har Har􏿿")
-                kk.sendText(msg.to,"Didik pekok 􀜁􀅔Har Har􏿿")
-                kc.sendText(msg.to,"Didik pekok 􀜁􀅔Har Har􏿿")
-            elif msg.text in ["Cv say bobo ah","Bobo dulu ah"]:
-                ki.sendText(msg.to,"Have a nice dream Cv 􀜁􀅔Har Har􏿿")
-                kk.sendText(msg.to,"Have a nice dream Cv 􀜁􀅔Har Har􏿿")
-                kc.sendText(msg.to,"Have a nice dream Cv 􀜁􀅔Har Har􏿿")
-            elif msg.text in ["Cv say chomel pekok"]:
-                ki.sendText(msg.to,"Chomel pekok 􀜁􀅔Har Har􏿿")
-                kk.sendText(msg.to,"Chomel pekok 􀜁􀅔Har Har􏿿")
-                kc.sendText(msg.to,"Chomel pekok 􀜁􀅔Har Har􏿿")
+            elif msg.text in ["Lylie"]:
+                ki.sendText(msg.to,"Lylie Kontol 􀜁􀅔Har Har􏿿")
+                kk.sendText(msg.to,"Lylie Memek 􀜁􀅔Har Har􏿿")
+                kc.sendText(msg.to,"Lylie Colmek Company 􀜁􀅔Har Har􏿿")
+            elif msg.text in ["Bacot"]:
+                ki.sendText(msg.to,"Bacot Ngentot 􀜁􀅔Har Har􏿿")
+                kk.sendText(msg.to,"Bacot Ngentot 􀜁􀅔Har Har􏿿")
+                kc.sendText(msg.to,"Bacot Ngentot 􀜁􀅔Har Har􏿿")
+            elif msg.text in ["/say Lylie Ngentot"]:
+                ki.sendText(msg.to,"Lylie Ngentot 􀜁􀅔Doctor􏿿")
+                kk.sendText(msg.to,"Lylie Ngentot 􀜁􀅔Doctor􏿿")
+                kc.sendText(msg.to,"Lylie Ngentot 􀜁􀅔Doctor􏿿")
+            elif msg.text in ["/say Lylie Pepeq"]:
+                ki.sendText(msg.to,"Lylie Pepeq 􀜁􀅔Har Har􏿿")
+                kk.sendText(msg.to,"Lylie Pepeq 􀜁􀅔Har Har􏿿")
+                kc.sendText(msg.to,"Lylie Pepeq 􀜁􀅔Har Har􏿿")
             elif msg.text in ["#welcome"]:
-                ki.sendText(msg.to,"Selamat datang di Chivas Family Room")
-                kk.sendText(msg.to,"Jangan nakal ok!")
+                ki.sendText(msg.to,"Selamat datang di Lylie Family Room")
+                kk.sendText(msg.to,"Jangan Ngentot ok!")
 #-----------------------------------------------
             elif msg.text in ["PING","Ping","ping"]:
                 ki.sendText(msg.to,"PONG 􀨁􀄻double thumbs up􏿿􀜁􀅔Har Har􏿿")
@@ -1654,11 +1654,10 @@ def bot(op):
                 kc.sendText(msg.to,"PONG 􀨁􀄻double thumbs up􏿿􀜁􀅔Har Har􏿿")
 #-----------------------------------------------
             elif msg.text in ["Respon","respon"]:
-                ki.sendText(msg.to,"Cv1")
-                kk.sendText(msg.to,"Cv2")
-                kc.sendText(msg.to,"Cv3")
+                ki.sendText(msg.to,"Lylie Kontol")
+                kk.sendText(msg.to,"Lylie Memek")
+                kc.sendText(msg.to,"Lylie Bangsat")
 #-----------------------------------------------
-
             elif msg.text in ["Sp","Speed","speed"]:
                 start = time.time()
                 cl.sendText(msg.to, "Progress...")
