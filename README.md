@@ -1,2 +1,2 @@
 # Chivas
-C
+Chivas Bot
